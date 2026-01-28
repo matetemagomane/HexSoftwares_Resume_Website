@@ -42,4 +42,4 @@ Here
 This project was completed as part of the Hex Software Internship Program - Web Development Domain.
 
 ---
-© 2025 Matete Magomane. All rights reserved.
+© 2026 Matete Magomane. All rights reserved.
